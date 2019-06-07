@@ -1,2 +1,2 @@
 # rest-api
-Gopher's 1st step
+Building REST API in GoLang
